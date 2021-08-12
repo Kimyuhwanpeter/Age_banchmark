@@ -15,7 +15,7 @@
 ## MV (pre-trained IMDB-WIKI 는 사용x)
 |     Train/test    |  WM  |  WF  |  BM  |  BF  |  AM  |  AF  |
 | :---------------: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Morph (20 epochs) |      |      |      |      |  -   |  -   |
+| Morph (20 epochs) | 3.87 | 4.35 | 3.71 | 4.25 |  -   |  -   |
 |   UTK (18 epochs) |      |      |      |      |  -   |  -   |
 |        AFAD       |  -   |  -   |  -   |  -   |      |      |
 |        AAF        |  -   |  -   |  -   |  -   |      |      |

@@ -4,7 +4,7 @@
 * train-3,449; test-3,449 (이 안에서 WM, WF, BM, BF, AM, AF 을 각각 나누어야 함)
 * 학습코드는 내일 오전중 수정하고 진행할 것 (DEX, MV, CORAL, CCNNAE 총 네개)
 
-## DEX
+## DEX (pre-trained IMDB-WIKI 는 사용x)
 | Train/test |  WM  |  WF  |  BM  |  BF  |  AM  |  AF  |
 | :--------: | :--: | :--: | :--: | :--: | :--: | :--: |
 |   Morph    | 3.78 | 4.72 | 3.85 | 4.56 |  -   |  -   |

@@ -12,4 +12,12 @@
 |        AFAD       |  -   |  -   |  -   |  -   |      |      |
 |        AAF        |  -   |  -   |  -   |  -   |      |      |
 
+## MV (pre-trained IMDB-WIKI 는 사용x)
+|     Train/test    |  WM  |  WF  |  BM  |  BF  |  AM  |  AF  |
+| :---------------: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Morph (20 epochs) |      |      |      |      |  -   |  -   |
+|   UTK (18 epochs) |      |      |      |      |  -   |  -   |
+|        AFAD       |  -   |  -   |  -   |  -   |      |      |
+|        AAF        |  -   |  -   |  -   |  -   |      |      |
+
 

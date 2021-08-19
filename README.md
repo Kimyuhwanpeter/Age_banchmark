@@ -29,7 +29,7 @@
 |        AFAD       |  -   |  -   |  -   |  -   | 예정 | 예정  |
 |        AAF        |  -   |  -   |  -   |  -   | 예정 | 예정  |
 
-## DLDL-V2 (pre-trained 사용 x) --> Morph 실험중
+## DLDL-V2 (pre-trained 사용 x) --> Morph 실험중 (지금 learning rate decay를 맞춰보는중)
 |     Train/test    |  WM  |  WF  |  BM  |  BF  |  AM  |  AF  |
 | :---------------: | :--: | :--: | :--: | :--: | :--: | :--: |
 |        Morph      |  -   |  -   |  -   |  -   |  -   |  -   |

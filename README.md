@@ -19,7 +19,7 @@
 | Morph (20 epochs) | 3.87 | 4.28 | 3.67 | 4.15 |  -   |  -   |
 |   UTK (29 epochs) | 5.90 | 5.61 | 4.98 | 5.08 |  -   |  -   |
 |        AFAD       |  -   |  -   |  -   |  -   | 5.18 | 5.71 |
-|        AAF        |  -   |  -   |  -   |  -   | 예정 | 예정  |
+|        AAF        |  -   |  -   |  -   |  -   | 5.24 | 5.60 |
 
 ## CORAL (pre-trained 사용 o)
 |     Train/test    |  WM  |  WF  |  BM  |  BF  |  AM  |  AF  |

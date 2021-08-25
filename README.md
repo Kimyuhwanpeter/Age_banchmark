@@ -11,7 +11,7 @@
 | Morph (20 epochs) | 3.78 | 4.72 | 3.85 | 4.56 |  -   |  -   |
 |   UTK (18 epochs) | 5.98 | 5.88 | 5.31 | 5.36 |  -   |  -   |
 |        AFAD       |  -   |  -   |  -   |  -   | 5.85 | 6.42 |
-|        AAF        |  -   |  -   |  -   |  -   | 예정 | 예정  |
+|        AAF        |  -   |  -   |  -   |  -   | 5.88 | 6.05 |
 
 ## MV (pre-trained IMDB-WIKI 는 사용x)
 |     Train/test    |  WM  |  WF  |  BM  |  BF  |  AM  |  AF  |
